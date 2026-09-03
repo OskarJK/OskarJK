@@ -31,6 +31,7 @@ I build well-structured applications with a focus on **clean architecture, maint
 **Web**
 
 * HTML · CSS
+* TypeScript
 
 **Database & Infrastructure**
 
