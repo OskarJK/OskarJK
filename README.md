@@ -30,7 +30,7 @@ I build well-structured applications with a focus on **clean architecture, maint
 
 **Web**
 
-* HTML · CSS
+* HTML · CSS · Tailwind CSS
 * TypeScript
 
 **Database & Infrastructure**
