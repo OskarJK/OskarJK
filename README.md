@@ -75,5 +75,7 @@ Application developed in **C# with Entity Framework**, where I was responsible f
 
 ## LinkedIn
 * (www.linkedin.com/in/oskar-jakimiak-3a597a265)
+  
+---
 
-**Open to opportunities**
+***Open to opportunities***
