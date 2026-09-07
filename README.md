@@ -59,6 +59,7 @@ Application developed in **C# with Entity Framework**, where I was responsible f
 ## 📜 Certification
 
 **Cisco PCAP — Programming Essentials in Python**
+
 **Cisco English for IT 2**
 
 ---
